@@ -23,6 +23,7 @@ pub mod person_block;
 pub mod person_mention;
 pub mod post;
 pub mod post_report;
+pub mod draft;
 pub mod private_message;
 pub mod private_message_report;
 pub mod registration_application;
